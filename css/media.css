@@ -1,0 +1,384 @@
+@media (max-width: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1200px) {
+    .container{
+        width: 90%;
+    }
+    #product{
+        width: 90%;
+    }
+    .product-tabs{
+        padding-left: 25%;
+        width: 60%;
+        flex-wrap: wrap;
+
+    }
+    .card3{
+        padding-top: 40px;
+    }
+    .card4{
+        padding-top: 40px;
+    }
+    .images{
+        flex-direction: column;
+    }
+    .input-two {
+        margin-left: 150px;
+        width: 70%;
+    }
+    .hero-bg {
+        left: -55px;
+    }
+    .drone {
+        left: -131px;
+}
+    .drone-tittle {
+        right: 114px;
+    }
+    .figure {
+        right: 300px;
+    }
+    .footer-tel{
+        width: 105%;
+    }
+    .footer-nav{
+        width: 90%;
+    }
+    .footer-nav button{
+        width: 90%;
+    }
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 992px) {
+    .card1{
+        margin-bottom: 5px;
+    }
+    .hero{
+        flex-direction: column;
+    }
+    .hero-tittle{
+        padding-bottom: 30px;
+    }
+    .container{
+        width: 90%;
+    }
+    .product-tabs {
+        width: 77%;
+        flex-wrap: wrap;
+    }
+    .drone-tittle {
+        right: 121px;
+    }
+    .input-two{
+        flex-wrap: wrap;
+    }
+    .liner{
+        margin-left: 17%;
+    }
+
+    .tel{
+        display: none;
+    }
+    .footer-tel{
+        display: none;
+    }
+    .tittle-img{
+        margin-left: 17%;
+    }
+    .images-general{
+        margin-left: 5%;
+    }
+    .gatjet {
+        width: 90%;
+    }
+    /*.footer{*/
+    /*    width: 90%;*/
+    /*}*/
+
+
+}
+
+@media (max-width: 768px) {
+    .card2{
+        margin-top: 20px;
+    }
+    .tel{
+        display: flex;
+    }
+    .header-nav{
+        display: none;
+    }
+    .header {
+        width: 85%;
+    }
+    .drone-tittle {
+        right: 5%;
+    }
+    .footer-nav button{
+        display: none;
+    }
+    .hero{
+        flex-direction: column;
+    }
+    .hero-tittle{
+        margin-right: 20%;
+    }
+    .hero-tittle h1 {
+        font-size: 36px;
+    }
+    .product-tittle {
+        width: 90%;
+    }
+    .product-tittle label{
+        margin: 30px;
+    }
+    .images-general{
+        width: 90%;
+        margin-right: 82px;
+    }
+    .product-tittle h1 {
+        font-weight: 900;
+        font-size: 17px;
+    }
+    .footer{
+        width: 76%;
+    }
+    .footer-logo-tittle{
+        display: none;
+    }
+    .tittle-img img{
+        width: 90%;
+    }
+    .img-nav-tit {
+        bottom: 99px;
+        right: 107px;
+        line-height: 20px;
+    }
+    .div {
+        bottom: 725px;
+        right: 142px;
+    }
+    .images-general img{
+        width: 96%;
+    }
+    .img-nav {
+        bottom: 132px;
+        right: 160px;
+    }
+    .figure-tit {
+        bottom: 213px;
+        right: 485px;
+    }
+    .hero-bg {
+        left: 1%;
+        height: 92%;
+        width: 100%;
+        top: 1%;
+    }
+    .drone {
+        width: 72%;
+        height: 56%;
+        left: 4%;
+        top: 29%;
+    }
+    .hero-img {
+        width: 100%;
+    }
+    .figure {
+        right: 26%;}
+    .figures {
+        bottom: 5%;
+        left: 6%;
+        width: 87%;
+    }
+    .hero-tittle p{
+        padding: 3% 0;
+        font-size: 90%;}
+    .gatjet {
+        padding: 3%;
+        align-items: start;
+        flex-direction: column;
+    }
+    .footer-nav {
+        width: 50%;
+        padding: 0 18%;
+    }
+    .footer {
+        width: 85%;
+    }
+}
+
+@media (max-width: 576px) {
+    .container{
+        width: 90%;
+    }
+    .product-tittle label{
+        margin:12px;
+    }
+    .footer {
+        width: 57%;
+    }
+
+
+
+
+}
+
+@media (max-width: 451px) {
+    .container{
+        width: 90%;
+    }
+    .product-tittle{
+        width: 90%;
+    }
+    .product-tittle h1 {
+        font-size: 10px;
+    }
+    .product-tittle label {
+        margin: 11px;
+    }
+    .input-two {
+        margin-left: 56px;
+        width: 70%;
+    }
+    .img-nav {
+        bottom: 69px;
+        right: 62px;
+    }
+    .img-nav h1{
+        font-size: 17px;
+    }
+    .img-nav-tit h1 {
+        font-size: 14px;
+    }
+    .img-nav-tit {
+        bottom: 59px;
+        right: 40px;
+        line-height: 20px;
+    }
+    .figure {
+        right: 37%;
+        top: 60%;
+    }
+    .drone-tittle {
+        right: 1%;
+        top: 326px;
+    }
+    .drone-tittle h1 {
+        font-weight: 900;
+        font-size: 13px;
+        color: #FFFFFF;
+    }
+    .div {
+        bottom: 188px;
+        right: 72px;
+    }
+    .footer{
+        width: 10%;
+    }
+    .footer-nav{
+        margin-left: 80px;
+        flex-direction: column;
+    }
+    .footer-tit-nav{
+        padding-top: 10px;
+    }
+
+    .footer-logo{
+        width: 90%;
+    }
+    .footer-tiitle {
+        display: none;
+    }
+    .images-general img {
+        width: 105%;
+    }
+    .images-general {
+        width: 90%;
+        margin-right: 71px;
+    }
+}
+
+@media (max-width: 400px) {
+    .container{
+        width: 90%;
+    }
+    .product-tittle label {
+        margin: 7px;
+    }
+    .images-general {
+        width: 90%;
+        margin-right: 46px;
+    }
+    .img-nav h1 {
+        font-size: 14px;
+    }
+    .img-nav {
+        bottom: 51px;
+        right: 63px;
+    }
+    .div {
+        bottom: 170px;
+        right: 59px;
+    }
+    .img-nav-tit p {
+        font-size: 13px;
+    }
+    .images-general img {
+        width: 102%;
+    }
+    .img-nav p {
+        font-size: 14px;
+    }
+
+}
+
+@media (max-width: 376px) {
+    .product-tittle label{
+        margin: 4px;
+    }
+    .card {
+        width: 90%;
+        height: 90%;
+}
+    .sub-tittle {
+        font-size: 14px;
+        margin-right: 16px;
+    }
+    .img-nav {
+        right: 51px;
+    }
+    .card img{
+        margin-left: 24px;
+        width: 75%;
+    }
+    .gatjet-tittle {
+        font-size: 19px;
+    }
+    .hero-tittle h1 {
+        font-size: 21px;
+    }
+    .hero-tittle p {
+        padding: 3% 0;
+        font-size: 88%;
+    }
+    .hero-tittle button {
+        width: 90%;
+        height: 50px;
+        font-size: 14px;
+    }
+
+    }
+
+@media (max-width: 320px) {
+
+}

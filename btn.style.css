@@ -141,7 +141,7 @@ form{
     top: 300px;
 
     margin: 0 auto;
-    background: rgba(10, 10, 10, 0.52);
+    background: rgba(253, 238, 238, 0.52);
     width: 450px;
     height: 500px;
     padding: 20px;
@@ -180,6 +180,7 @@ button{
     text-transform:uppercase ;
     font-size: 15px;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+    transition: 1s;
 }
 button:hover{
     opacity: .80;
